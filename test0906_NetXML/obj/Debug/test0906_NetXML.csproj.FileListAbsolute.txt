@@ -1,0 +1,9 @@
+D:\LABC#\test0906_NetXML\test0906_NetXML\bin\Debug\test0906_NetXML.exe.config
+D:\LABC#\test0906_NetXML\test0906_NetXML\bin\Debug\test0906_NetXML.exe
+D:\LABC#\test0906_NetXML\test0906_NetXML\bin\Debug\test0906_NetXML.pdb
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.csprojResolveAssemblyReference.cache
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.Form1.resources
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.Properties.Resources.resources
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.csproj.GenerateResource.Cache
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.exe
+D:\LABC#\test0906_NetXML\test0906_NetXML\obj\Debug\test0906_NetXML.pdb
